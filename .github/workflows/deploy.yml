@@ -9,5 +9,5 @@ jobs:
       with:
         python-version: 3.8
     - name: Run Work
-          run: |
-            python main.py
+      run: |
+        python main.py
